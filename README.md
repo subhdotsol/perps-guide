@@ -18,8 +18,6 @@ A reading path for building a perpetual futures exchange on Solana. Compiled 202
 | 10 | [Gaps and what to build](10-gaps-and-what-to-build.md) | Open problems ranked, including long-tail token perps | 45 min |
 | 11 | [Reading list](11-reading-list.md) | Papers, docs and posts, in the order to consume them | weeks |
 
-> Files 06, 07, 08 and 11 are still being written and are not in the repository yet.
-
 ## Suggested four-week plan
 
 **Week 1 — mechanics.** Files 01–04. Then trade a small position on two venues of different designs (one order book, one pool) on testnet or with trivial size, and write down every number the UI shows you and how it is computed.
